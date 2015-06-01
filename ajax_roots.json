@@ -1,0 +1,4 @@
+[
+  { "text" : "Root 1", "children" : true, "data" : "Root 1 Click"},
+  { "text" : "Root 2", "children" : true, "data" : "Root 2 Click" }
+]
